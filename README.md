@@ -27,7 +27,7 @@ step 4 - output name
 step 5 - colors: "y" will make a grid of 6x6 pixels (dots) and they will have a color, anything else will make the same, but whiout color
 
 
-#about fps:
+# about fps:
 
 the fps float works as a division for the frames, how lower, is how much frame per second you will get
 example: 0.0069 you will get around 144 frames per second, because 1 / 0.0069 gives the same result.
